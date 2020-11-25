@@ -1,0 +1,44 @@
+*{
+    padding:0px;
+    margin:0px;
+}
+.container{
+    width:100%;
+    height:auto;
+    background-color: wheat;
+}
+/*this is a header*/
+.header{
+  width:100%;
+  height:110px;
+  background-color:grey;
+}
+#content{
+    border:2px solid white;
+}
+#right{
+    float:left;
+    color:white;
+    margin-left:10px;
+}
+#left{
+    float:right;
+    color:white;
+    font-size:40px;
+    font-family:verdana;
+    margin-right:20px;
+}
+#ct{
+    margin-top:10px;
+}
+#unique{
+   color:black; 
+}
+input[type="button"]{
+    float:right;
+    color:white;
+    padding:20px 30px;
+    background-color:blue;
+    margin-top:10px;
+    margin-right:10px;
+}
